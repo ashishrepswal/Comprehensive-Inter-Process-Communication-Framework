@@ -1,3 +1,4 @@
+// Pipe IPC module implemented for parent-child communication
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h>
