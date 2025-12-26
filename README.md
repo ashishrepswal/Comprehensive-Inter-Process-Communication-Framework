@@ -12,5 +12,12 @@ Token: IPC_SECURE_123
 - FIFO tested using two separate terminals
 - Shared memory tested with semaphore synchronization
 - Unauthorized access attempts were blocked successfully
+## System Architecture
+The IPC framework follows a modular architecture consisting of:
+- Client process for request initiation
+- Authentication layer for access control
+- IPC mechanism layer (Pipe, FIFO, Shared Memory)
+- Synchronization using semaphores
+- Server process for handling requests
 
 
