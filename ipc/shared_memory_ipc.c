@@ -1,3 +1,4 @@
+// Semaphore synchronization to prevent race condition in shared memory
 #include <stdio.h>
 #include <sys/mman.h>
 #include <fcntl.h>
