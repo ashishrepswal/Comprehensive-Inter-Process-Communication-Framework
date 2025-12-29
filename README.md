@@ -1,3 +1,7 @@
+## Final Notes
+This project was completed as part of the Operating Systems course.
+All IPC mechanisms were implemented, tested, and documented successfully
+with proper security and synchronization.
 ## Security Testing
 - Authentication token validation tested
 - Unauthorized access attempts were blocked
