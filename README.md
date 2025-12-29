@@ -1,3 +1,7 @@
+## Security Testing
+- Authentication token validation tested
+- Unauthorized access attempts were blocked
+- Semaphore ensured safe shared memory access
 Comprehensive Inter-Process Communication Framework
 Run:
 make
