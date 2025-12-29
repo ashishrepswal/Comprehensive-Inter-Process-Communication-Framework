@@ -1,3 +1,4 @@
+// Authentication module to restrict unauthorized IPC access
 #include <string.h>
 #include "auth.h"
 #define SECRET_TOKEN "IPC_SECURE_123"
